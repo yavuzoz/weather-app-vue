@@ -2,9 +2,6 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Project Preview
-![Weather App Preview](src/assets/img/weather-app-preview.png)
-
 
 ## Project Setup
 
